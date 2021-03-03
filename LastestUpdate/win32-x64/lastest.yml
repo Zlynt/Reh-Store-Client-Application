@@ -1,0 +1,8 @@
+version: 0.0.1
+files:
+  - url: https://raw.githubusercontent.com/Zlynt/RehStoreClientApp/main/LastestUpdate/win32-x64/rehstore-setup-0.0.1.exe
+    sha512: DLuU410iN3dsOF/CnNEZKaqx8QWEsIH05DDfr1wrd0MK3ArTvmM7B5PHpnKuK+h/UVd/AGpEChonRORv0h9QHw==
+    size: 108921322
+path: https://raw.githubusercontent.com/Zlynt/RehStoreClientApp/main/LastestUpdate/win32-x64/rehstore-setup-0.0.1.exe
+sha512: DLuU410iN3dsOF/CnNEZKaqx8QWEsIH05DDfr1wrd0MK3ArTvmM7B5PHpnKuK+h/UVd/AGpEChonRORv0h9QHw==
+releaseDate: '2021-03-03T13:56:52.238Z'
