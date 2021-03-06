@@ -1,8 +1,8 @@
-version: 0.1.1
+version: 0.1.2
 files:
-  - url: https://github.com/Zlynt/RehStoreClientApp/releases/download/0.1.1/Reh@Store.Setup.0.1.1.exe
-    sha512: AaMJWsw6uPmthk+i6E9q+wbXSuR4kg9KJWxbnLIKb4pyF+bR9AU7oFlnuAjYtpSKuuD7mOHu8EVRA4d64hFDYQ==
-    size: 109763320
-path: https://github.com/Zlynt/RehStoreClientApp/releases/download/0.1.1/Reh@Store.Setup.0.1.1.exe
-sha512: AaMJWsw6uPmthk+i6E9q+wbXSuR4kg9KJWxbnLIKb4pyF+bR9AU7oFlnuAjYtpSKuuD7mOHu8EVRA4d64hFDYQ==
-releaseDate: '2021-03-04T14:01:57.546Z'
+  - url: https://github.com/Zlynt/RehStoreClientApp/releases/download/0.1.2/Reh@Store.Setup.0.1.2.exe
+    sha512: kqES7WITJEmHKlk57/bRlvL9Ig2wq6cO79237ZIyr3tPBDRpBvQ72bVgkt6P4x8E4FG7CaUyUnI5C5RdfiRaXQ==
+    size: 110790441
+path: https://github.com/Zlynt/RehStoreClientApp/releases/download/0.1.2/Reh@Store.Setup.0.1.2.exe
+sha512: kqES7WITJEmHKlk57/bRlvL9Ig2wq6cO79237ZIyr3tPBDRpBvQ72bVgkt6P4x8E4FG7CaUyUnI5C5RdfiRaXQ==
+releaseDate: '2021-03-06T01:14:12.245Z'
