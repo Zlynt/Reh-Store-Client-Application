@@ -4,5 +4,6 @@ __Version 0.0.1__
 
 After the installation, it will be required to update to the latest version of the app
 
-## Changelog 0.0.1
-- Added update system
+## Changelog
+__[View Changelog](https://github.com/Zlynt/RehStoreClientApp/releases)__
+
