@@ -1,6 +1,6 @@
 # Reh@Store Client App
-__Version 0.0.1__
-- __[Installer](https://github.com/Zlynt/RehStoreClientApp/releases)__ - Install the Reh@Store client app.
+__Installer Links__
+- __[Installer (Windows 7, ... Windows 10)](https://github.com/Zlynt/RehStoreClientApp/releases)__
 
 After the installation, it will be required to update to the latest version of the app
 
