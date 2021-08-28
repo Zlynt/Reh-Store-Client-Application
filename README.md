@@ -1,4 +1,6 @@
 # Reh@Store Client App
+This repo is only here for historical reasons. Please use the version at https://rehstore.m-iti.org/
+
 __Installer Links__
 - __[Installer (Windows 7, ... , Windows 10)](https://github.com/Zlynt/RehStoreClientApp/releases)__
 
