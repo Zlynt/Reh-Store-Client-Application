@@ -15,6 +15,9 @@
 ## Changelog
 __[View Changelog](https://github.com/Zlynt/RehStoreClientApp/releases)__
 
+<br/>
+<br/>
+
 ## Funding and Maintenance
 
 | Funding/Maintenance | Description |
